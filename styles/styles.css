@@ -1,0 +1,44 @@
+body {
+     background-image:url("../images/image.JPG");
+     background-attachment: fixed;
+     padding:0;
+     margin:0;
+
+}
+.wrapper {
+     width:80%;
+     margin:auto;
+     background-color:#ffffff;
+     padding:20px;
+     text-align:justify;
+     opacity:90%;
+     bottom:-10px;
+}
+
+q{
+     font-style: italic;
+     font-weight: bolder;
+}
+
+
+footer {
+     background-color:gray;
+     color:#fff;
+     overflow: hidden;
+     width:100%;
+     text-align:center;
+}
+
+blockquote {
+     border:1px solid #f434e6;
+}
+
+ol li {
+     list-style-type:roman;
+}
+
+.side_style {
+     border-left: 1px solid #000;
+     padding-left: 5px;
+     font-variant: normal;
+}
